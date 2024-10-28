@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peja Lattrell Escares</h1>
-<h3 align="center">A passionate Computer Science student in New Era University</h3>
+<h3 align="center">A passionate Computer Science student from New Era University</h3>
 
 - 🌱 I’m currently learning **SQL and Relational Databases**
 
