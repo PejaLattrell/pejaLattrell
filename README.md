@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Peja Lattrell Escares</h1>
 <h3 align="center">A passionate Computer Science student from New Era University</h3>
 
-- 🌱 I’m currently learning **SQL and Relational Databases**
-
 - 📫 How to reach me **lattrellp@gmail.com**
+- 📄 Know about my certificates [https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281](https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
