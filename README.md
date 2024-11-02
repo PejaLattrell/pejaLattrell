@@ -3,7 +3,7 @@
 
 <h3 align="left">💼 Certifications</h3>
 <p align="left">
-  I'm proud to share my achievements! Check out my certification on <a href="https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281" target="_blank">SQL DATABASE</a>.
+<a href="https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281" target="_blank">SQL and Relational Databases 101</a>.
 </p>
 
 <h3 align="left">Connect with me:</h3>
