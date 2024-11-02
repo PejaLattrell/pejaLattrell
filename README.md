@@ -3,10 +3,8 @@
 
 <h3 align="left">💼 Certifications</h3>
 <p align="left">
-  I'm proud to share my achievements! You can view my certification [here](https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281).
+  I'm proud to share my achievements! Check out my certification on <a href="https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281" target="_blank">SQL DATABASE</a>.
 </p>
-
-- 📫 How to reach me: **lattrellp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
