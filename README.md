@@ -4,7 +4,7 @@
 <h3 align="left">💼 Certifications</h3>
 <p align="left">
 <a href="https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281" target="_blank">SQL and Relational Databases 101</a><br>
-<a href="[https://brm-certview.oracle.com/ords/certview/ecertificate?ssn=OC5412282&trackId=OCI2024FNDCFA&key=2d6f9e2017e9ec02e0269a0d80fbea1868b52a5e](https://catalog-education.oracle.com/pls/certview/sharebadge?id=FDBFD2AA10C9E341800D4CE884E8540BBE1E3B79595DECD3D137036338723592)" target="_blank">Become An OCI Foundation Associate(2024)</a>
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDBFD2AA10C9E341800D4CE884E8540BBE1E3B79595DECD3D137036338723592" target="_blank">Become An OCI Foundation Associate(2024)</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
