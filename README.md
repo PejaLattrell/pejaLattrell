@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm Peja Lattrell Escares</h1>
-<h3 align="center">A passionate Computer Science student from New Era University</h3>
+<h3 align="center"><em>A passionate Computer Science student from New Era University</em></h3>
+
+<h3 align="left">🎓 Education</h3>
+<p align="left">
+    <strong>New Era University</strong><br>
+    <small><em>2023-Present</em> | <em>Bachelor of Science in Computer Science</em></small>
+</p></em></small>
+</p>
+<p align="left">
+    <strong>Dasmarinas Integrated High School</strong><br>
+    <small><em>2021-2023</em> | <em>STEM</em>
+</p>
 
 <h3 align="left">💼 Certifications</h3>
 <p align="left">
@@ -9,7 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="facebook.com/s4nae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peja lattrell" height="30" width="40" /></a>
+  <a href="https://twitter.com/notherepeya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="notherepeya" height="30" width="40" /></a>
+<a href="https://fb.com/s4nae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s4nae" height="30" width="40" /></a>
+<a href="https://instagram.com/peja_scares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="peja_scares" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
