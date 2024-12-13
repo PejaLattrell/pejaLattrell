@@ -17,7 +17,7 @@
 <a href="https://courses.cognitiveclass.ai/certificates/fcbdda18e00e46debf5885f1a7d8b281" target="_blank">SQL and Relational Databases 101</a><br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDBFD2AA10C9E341800D4CE884E8540BBE1E3B79595DECD3D137036338723592" target="_blank">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a><br>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=FDBFD2AA10C9E341800D4CE884E8540B4ECA77C8B7F3509FBD1B0068F97DD0A8">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a><br>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=133C8DD423812C02559B2C899B6B1DF7C0956CDEABFDA5B9E75136FAAAB95A14">Oracle Cloud Infrastructure 2024 AI Certified Foundations Associate</a><br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=133C8DD423812C02559B2C899B6B1DF7C0956CDEABFDA5B9E75136FAAAB95A14">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a><br>
 </p>
 
 <h3 align="left">Connect with me:</h3>
