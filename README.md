@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peja Lattrell Escares</h1>
-<h3 align="center"><em>A passionate Computer Science student from New Era University</em></h3>
+<h3 align="center"><em>Computer Science student from New Era University</em></h3>
 
 <h3 align="left">🎓 Education</h3>
 <p align="left">
