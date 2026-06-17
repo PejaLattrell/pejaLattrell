@@ -1,5 +1,5 @@
 <h1 align="center">Peja Lattrell Escares</h1>
-<h3 align="center">Computer Science Student · New Era University</h3>
+<h3 align="center">Full-Stack Developer · Data Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/peja-lattrell-escares-779392341/">
