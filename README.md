@@ -17,7 +17,9 @@
 
 ## About Me
 
-I am a Bachelor of Science in Computer Science student at New Era University, with a strong interest in cloud computing, data engineering, and software development. I am continuously building my skills through coursework, hands-on projects, and industry certifications.
+I am a Full-Stack Developer with hands-on experience building web applications, developing backend systems, and working with cloud technologies. My interests include software engineering, data engineering, AI-powered solutions, and scalable application development.
+
+I have experience working with modern technologies such as React, Next.js, Java, Python, PHP, MySQL, PostgreSQL, Docker, AWS, and Oracle Cloud Infrastructure. I enjoy designing efficient systems, solving complex technical problems, and continuously expanding my expertise through real-world projects, professional experience, and industry certifications.
 
 ---
 
